@@ -1,0 +1,48 @@
+FastGithub.DomainResolve.DomainResolver
+objects.githubusercontent.com:443->[185.199.108.133, 185.199.110.133, 185.199.109.133]
+
+2022-02-09T19:38:32.7920316+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+avatars.githubusercontent.com:443->[185.199.108.133, 185.199.110.133, 185.199.109.133]
+
+2022-02-09T19:38:36.2532468+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.githubassets.com:443->[185.199.109.154, 185.199.110.154, 185.199.111.154]
+
+2022-02-09T19:38:37.6211528+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.114.21, 140.82.112.21, 140.82.112.22]
+
+2022-02-09T19:39:05.3923258+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[140.82.112.5, 140.82.121.5, 140.82.121.6]
+
+2022-02-09T19:40:08.3693813+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.112.22, 140.82.112.21, 140.82.113.21]
+
+2022-02-09T19:40:08.9477416+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.114.26, 140.82.113.26, 140.82.114.25]
+
+2022-02-09T19:40:17.0613399+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[20.190.166.4, 20.190.166.2, 20.190.166.5]
+
+2022-02-09T19:40:23.6754481+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.114.26, 140.82.114.25, 140.82.112.26]
+
+2022-02-09T19:40:48.5337026+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+github.com:443->[20.205.243.166, 140.82.121.4, 192.30.255.113]
+
+2022-02-09T19:41:07.1637024+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+api.github.com:443->[140.82.121.5, 140.82.121.6, 20.205.243.168]
+
+2022-02-09T19:42:14.8374611+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+login.live.com@119.29.29.29:53->由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+2022-02-09T19:42:18

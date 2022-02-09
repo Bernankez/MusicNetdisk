@@ -1,0 +1,26 @@
+b.com:443->[140.82.114.26, 140.82.113.25, 140.82.112.26]
+
+2022-02-09T19:45:14.6405870+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+login.live.com:443->[40.126.38.69, 20.190.166.4, 20.190.141.39]
+
+2022-02-09T19:45:28.5136557+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+alive.github.com:443->[140.82.114.26, 140.82.113.25, 140.82.113.26]
+
+2022-02-09T19:46:12.1919803+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+alive.github.com@8.8.8.8:53->Unexpected end of stream
+
+2022-02-09T19:46:36.0201033+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+collector.github.com@119.29.29.29:53->由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+2022-02-09T19:46:36.4235108+08:00 [INF]
+FastGithub.DomainResolve.DomainResolver
+collector.github.com:443->[140.82.113.22, 140.82.112.21, 140.82.113.21]
+
+2022-02-09T19:46:57.7904648+08:00 [WRN]
+FastGithub.DomainResolve.DnsClient
+github.com@119.29.29.29:53->由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
