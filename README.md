@@ -1,3 +1,5 @@
+自溜用
+
 歌曲下载方式：
 
 [点击这里](https://github.com/Bernankez/MusicNetdisk/archive/refs/heads/master.zip) 下载当前所有歌曲压缩包。
